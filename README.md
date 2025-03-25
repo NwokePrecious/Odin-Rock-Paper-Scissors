@@ -32,8 +32,6 @@ A modern web browser with JavaScript enabled.
 
 Basic understanding of how to open the browser console.
 
-# Future Improvements
-
 # License
 
 This project is open-source and free to use.
